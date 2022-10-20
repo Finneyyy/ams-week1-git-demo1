@@ -14,5 +14,10 @@ line2
 
 ## Section 2
 Still nothing here  
-```this is the backtick snippet```
+``` py
+this is the backtick snippet
+def greet:
+  print("nothing happens")
+```
+  
 I wonder does the ||spoiler|| discord feature work as well?

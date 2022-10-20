@@ -20,4 +20,7 @@ def greet:
   print("nothing happens")
 ```
   
-I wonder does the ||spoiler|| discord feature work as well?
+| Header | Text |
+|--------|------|
+| text1  | text2|
+
